@@ -1,0 +1,2094 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.4.1)  17 JUN 2012 09:26
+entering extended mode
+**Project*Main*file.tex
+("C:\Users\Shree\Desktop\BE prj\final latex report\Project Main file.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2009-06-19, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, lao, latin, lat
+vian, lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerm
+an, ngerman-x-2009-06-19, nynorsk, oriya, panjabi, pinyin, polish, portuguese, 
+romanian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swis
+sgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, u
+senglishmax, welsh, loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\report.cls"
+Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\supertabular\supertabular.sty"
+Package: supertabular 2004/02/20 v4.1e the supertabular environment
+\c@tracingst=\count88
+\ST@wd=\dimen103
+\ST@rightskip=\skip43
+\ST@leftskip=\skip44
+\ST@parfillskip=\skip45
+\ST@pageleft=\dimen104
+\ST@headht=\dimen105
+\ST@tailht=\dimen106
+\ST@pagesofar=\dimen107
+\ST@pboxht=\dimen108
+\ST@lineht=\dimen109
+\ST@stretchht=\dimen110
+\ST@prevht=\dimen111
+\ST@toadd=\dimen112
+\ST@dimen=\dimen113
+\ST@pbox=\box26
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty"
+\fancy@headwidth=\skip46
+\f@ncyO@elh=\skip47
+\f@ncyO@erh=\skip48
+\f@ncyO@olh=\skip49
+\f@ncyO@orh=\skip50
+\f@ncyO@elf=\skip51
+\f@ncyO@erf=\skip52
+\f@ncyO@olf=\skip53
+\f@ncyO@orf=\skip54
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2008/07/08 v3.8m The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
+File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\english.ldf"
+Language: english 2005/03/30 v3.3o English support from the babel system
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2008/07/08 v3.8m Babel common definitions
+\babel@savecnt=\count89
+\U@D=\dimen114
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2009/06/22 v3.00
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\@emptytoks=\toks14
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsmath.sty"
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip55
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks15
+\ex@=\dimen115
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen116
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count90
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count91
+\leftroot@=\count92
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count93
+\DOTSCASE@=\count94
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box27
+\strutbox@=\box28
+\big@size=\dimen117
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count95
+\c@MaxMatrixCols=\count96
+\dotsspace@=\muskip10
+\c@parentequation=\count97
+\dspbrk@lvl=\count98
+\tag@help=\toks16
+\row@=\count99
+\column@=\count100
+\maxfields@=\count101
+\andhelp@=\toks17
+\eqnshift@=\dimen118
+\alignsep@=\dimen119
+\tagshift@=\dimen120
+\tagwidth@=\dimen121
+\totwidth@=\dimen122
+\lineht@=\dimen123
+\@envbody=\toks18
+\multlinegap=\skip56
+\multlinetaggap=\skip57
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\subfigure\subfigure.sty"
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip58
+\subfigcapskip=\skip59
+\subfigcaptopadj=\dimen124
+\subfigbottomskip=\skip60
+\subfigcapmargin=\dimen125
+\subfiglabelskip=\skip61
+\c@subfigure=\count102
+\c@lofdepth=\count103
+\c@subtable=\count104
+\c@lotdepth=\count105
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+("C:\Program Files\MiKTeX 2.9\tex\latex\subfigure\subfigure.cfg")
+\subfig@top=\skip62
+\subfig@bottom=\skip63
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks20
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: dvips.def on input line 91.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\dvips.def"
+File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+\Gin@req@height=\dimen126
+\Gin@req@width=\dimen127
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\color.sty"
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: dvips.def on input line 130.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\dvipsnam.def"
+File: dvipsnam.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\makeidx.sty"
+Package: makeidx 2000/03/29 v1.0m Standard LaTeX package
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\nomencl\nomencl.sty"
+Package: nomencl 2005/09/22 v4.2 Nomenclature package (LN)
+\nomlabelwidth=\dimen128
+\nom@tempdim=\dimen129
+\nomitemsep=\skip64
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\cite\cite.sty"
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 373.
+Package: cite 2010/09/10  v 5.3
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\longtable.sty"
+Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip65
+\LTright=\skip66
+\LTpre=\skip67
+\LTpost=\skip68
+\LTchunksize=\count106
+\LTcapwidth=\dimen130
+\LT@head=\box29
+\LT@firsthead=\box30
+\LT@foot=\box31
+\LT@lastfoot=\box32
+\LT@cols=\count107
+\LT@rows=\count108
+\c@LT@tables=\count109
+\c@LT@chunks=\count110
+\LT@p@ftn=\toks21
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\afterpage.sty"
+Package: afterpage 1995/10/27 v1.08 After-Page Package (DPC)
+\AP@output=\toks22
+\AP@partial=\box33
+\AP@footins=\box34
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\datetime\datetime.sty"
+Package: datetime 2010/09/21 v2.58 Date Time Package
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\fmtcount\fmtcount.sty"
+Package: fmtcount 2009/10/02 v1.31
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@padzeroesN=\count111
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\fmtcount\fc-english.def"
+File: fc-english 2007/05/26
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\fmtcount\fc-UKenglish.def"
+File: fc-UKenglish 2007/06/14
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\fmtcount\fc-british.def"
+File: fc-british 2007/06/14
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\fmtcount\fc-USenglish.def"
+File: fc-USenglish 2007/06/14
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\fmtcount\fc-spanish.def"
+File: fc-spanish.def 2007/05/26
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\fmtcount\fc-portuges.def"
+File: fc-portuges.def 2007/05/26
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\fmtcount\fc-french.def"
+File: fc-french.def 2007/05/26
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\fmtcount\fc-german.def"
+File: fc-german.def 2007/06/14
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\fmtcount\fc-italian.def"
+File: fc-italian.def 2009/10/02 Italian support for fmtcount (Edoardo Pasca)
+)
+No configuration file fmtcount.cfg found.
+\@DT@modctr=\count112
+\@ordinalctr=\count113
+\@orgargctr=\count114
+\@strctr=\count115
+\@tmpstrctr=\count116
+\@DT@loopN=\count117
+\@DT@X=\count118
+)
+\@day=\count119
+\@month=\count120
+\@year=\count121
+\c@HOUR=\count122
+\c@HOURXII=\count123
+\c@MINUTE=\count124
+\c@TOHOUR=\count125
+\c@TOMINUTE=\count126
+\c@SECOND=\count127
+\currenthour=\count128
+\currentminute=\count129
+\currentsecond=\count130
+Package datetime Info: No datetime.cfg file found, using default settings on in
+put line 292.
+\@dtctr=\count131
+\dayofyear=\count132
+\dayofweek=\count133
+LaTeX Info: Redefining \today on input line 724.
+\dt@a=\toks23
+\dt@b=\toks24
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\lipsum\lipsum.sty"
+Package: lipsum 2011/04/14 v1.2 150 paragraphs of Lorem Ipsum dummy text
+\c@lips@count=\count134
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\enumitem\enumitem.sty"
+Package: enumitem 2011/08/06 v3.4 Customized lists
+\labelindent=\skip69
+\enit@outerparindent=\dimen131
+\enit@toks=\toks25
+\enit@inbox=\box35
+\enitdp@description=\count135
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2010/03/01 v1.5 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count136
+\Gm@cntv=\count137
+\c@Gm@tempcnt=\count138
+\Gm@bindingoffset=\dimen132
+\Gm@wd@mp=\dimen133
+\Gm@odd@mp=\dimen134
+\Gm@even@mp=\dimen135
+\Gm@layoutwidth=\dimen136
+\Gm@layoutheight=\dimen137
+\Gm@layouthoffset=\dimen138
+\Gm@layoutvoffset=\dimen139
+\Gm@dimlist=\toks26
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+("C:\Program Files\MiKTeX 2.9\tex\latex\ms\ragged2e.sty"
+Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\ms\everysel.sty"
+Package: everysel 2009/05/30 v1.1 EverySelectfont Package (MS)
+)
+\CenteringLeftskip=\skip70
+\RaggedLeftLeftskip=\skip71
+\RaggedRightLeftskip=\skip72
+\CenteringRightskip=\skip73
+\RaggedLeftRightskip=\skip74
+\RaggedRightRightskip=\skip75
+\CenteringParfillskip=\skip76
+\RaggedLeftParfillskip=\skip77
+\RaggedRightParfillskip=\skip78
+\JustifyingParfillskip=\skip79
+\CenteringParindent=\skip80
+\RaggedLeftParindent=\skip81
+\RaggedRightParindent=\skip82
+\JustifyingParindent=\skip83
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count139
+\float@exts=\toks27
+\float@box=\box36
+\@float@everytoks=\toks28
+\@floatcapt=\box37
+)
+\@float@every@table=\toks29
+\@float@every@figure=\toks30
+
+("C:\Users\Shree\Desktop\BE prj\final latex report\intmacros.sty")
+("C:\Program Files\MiKTeX 2.9\tex\latex\pslatex\pslatex.sty"
+Package: pslatex 1996/07/24 v1.2 pslatex emulation (DPC)
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 65.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ptmcm/m/n on input line 65.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptmcm/m/n on input line 65.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 66.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ptmcm/m/it on input line 66.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ptmcm/m/it on input line 66.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 67.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/pzccm/m/n on input line 67.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/pzccm/m/n on input line 67.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 68.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/psycm/m/n on input line 68.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/psycm/m/n on input line 68.
+\symbold=\mathgroup6
+\symitalic=\mathgroup7
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 74.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 74.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 74.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 75.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 75.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 75.
+)
+("C:\Users\Shree\Desktop\BE prj\final latex report\Project Main file.aux"
+("C:\Users\Shree\Desktop\BE prj\final latex report\chapter1.aux")
+("C:\Users\Shree\Desktop\BE prj\final latex report\chapter2.aux")
+("C:\Users\Shree\Desktop\BE prj\final latex report\chapter3.aux")
+("C:\Users\Shree\Desktop\BE prj\final latex report\chapter4.aux")
+("C:\Users\Shree\Desktop\BE prj\final latex report\chapter5.aux")
+("C:\Users\Shree\Desktop\BE prj\final latex report\chapter6.aux")
+("C:\Users\Shree\Desktop\BE prj\final latex report\chapter7.aux")
+("C:\Users\Shree\Desktop\BE prj\final latex report\chapter8.aux"))
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMS/pzccm/m/n on input line 45.
+LaTeX Font Info:    Try loading font information for OMS+pzccm on input line 45
+.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omspzccm.fd"
+File: omspzccm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/pzccm.
+)
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+
+*geometry* detected driver: dvips
+*geometry* verbose mode - [ preamble ] result:
+* driver: dvips
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=440.84743pt
+* \textheight=664.88377pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-14.45377pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Info: Redefining \selectfont on input line 45.
+("C:\Users\Shree\Desktop\BE prj\final latex report\title.tex"
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 6.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 11.
+LaTeX Font Info:    Try loading font information for OT1+ptmcm on input line 16
+.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ptmcm.fd"
+File: ot1ptmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ptmcm.
+)
+LaTeX Font Info:    Try loading font information for OML+ptmcm on input line 16
+.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omlptmcm.fd"
+File: omlptmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ptmcm.
+)
+LaTeX Font Info:    Try loading font information for OMX+psycm on input line 16
+.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omxpsycm.fd"
+File: omxpsycm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/psycm.
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 16.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 16.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 16.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 16.
+
+
+! LaTeX Error: Cannot determine size of graphic in STES.png (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 \includegraphics[scale=1]{STES.png}
+                                        
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: STES.png Graphic file (type eps)
+<STES.png>
+
+! LaTeX Error: Cannot determine size of graphic in inpune.jpg (no BoundingBox).
+
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.46 \includegraphics[scale=1]{inpune.jpg}
+                                          
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: inpune.jpg Graphic file (type eps)
+<inpune.jpg>) [1
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+
+
+Non-PDF special ignored!
+Non-PDF special ignored!{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!]
+("C:\Users\Shree\Desktop\BE prj\final latex report\CERTIFICATE.tex"
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24 \vspace{10mm}\\
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--28
+
+ []
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 \\
+       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+) [1
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!]
+("C:\Users\Shree\Desktop\BE prj\final latex report\abstract.tex"
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 3.
+) [2
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!]
+("C:\Users\Shree\Desktop\BE prj\final latex report\acknowledgement.tex"
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20.74> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 3.
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--15
+
+ []
+
+) [3
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24.88> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 64.
+
+("C:\Users\Shree\Desktop\BE prj\final latex report\Project Main file.lof")
+\tf@lof=\write3
+
+[4
+Non-PDF special ignored!
+Non-PDF special ignored!
+
+
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!]
+("C:\Users\Shree\Desktop\BE prj\final latex report\Project Main file.toc"
+[5
+Non-PDF special ignored!
+Non-PDF special ignored!
+
+
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!])
+\tf@toc=\write4
+ [1
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!]
+("C:\Users\Shree\Desktop\BE prj\final latex report\chapter1.tex"
+Chapter 1.
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--33
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--65
+
+ []
+
+[1
+Non-PDF special ignored!
+Non-PDF special ignored!
+
+
+
+Non-PDF special ignored!
+Non-PDF special ignored!] [2
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!]
+Missing character: There is no Ö in font ptmr7t!
+File: flat.eps Graphic file (type eps)
+ <flat.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 66--74
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
+
+ []
+
+[3
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!]
+File: frag1.eps Graphic file (type eps)
+ <frag1.eps>
+File: frag2.eps Graphic file (type eps)
+ <frag2.eps> [4
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!]
+File: frag3.eps Graphic file (type eps)
+ <frag3.eps>
+File: frag4.eps Graphic file (type eps)
+ <frag4.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 112--113
+
+ []
+
+[5
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!]
+Underfull \hbox (badness 10000) in paragraph at lines 118--125
+
+ []
+
+[6
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!]
+Missing character: There is no ù in font ptmr7t!
+ [7
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!] [8
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!]) [9
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!]
+("C:\Users\Shree\Desktop\BE prj\final latex report\chapter2.tex"
+Chapter 2.
+File: pdl.eps Graphic file (type eps)
+<pdl.eps>
+Overfull \hbox (128.22229pt too wide) in paragraph at lines 10--12
+[][]
+ []
+
+[10
+Non-PDF special ignored!
+Non-PDF special ignored!
+
+
+
+
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!]
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ì in font ptmr7t!
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--37
+
+ []
+
+Missing character: There is no ‚ in font ptmb7t!
+Missing character: There is no Ä in font ptmb7t!
+Missing character: There is no ì in font ptmb7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ì in font ptmr7t!
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--77
+
+ []
+
+[11
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!]
+Underfull \hbox (badness 10000) in paragraph at lines 78--84
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--97
+
+ []
+
+[12
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!]
+Underfull \hbox (badness 10000) in paragraph at lines 100--106
+
+ []
+
+Missing character: There is no ù in font ptmr7t!
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--109
+
+ []
+
+[13
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!]
+Underfull \hbox (badness 10000) in paragraph at lines 127--134
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--159
+
+ []
+
+[14
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!]
+Underfull \hbox (badness 10000) in paragraph at lines 160--168
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--170
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--174
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--181
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--185
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 186--191
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 192--193
+
+ []
+
+[15
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!]) [16
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!]
+("C:\Users\Shree\Desktop\BE prj\final latex report\chapter3.tex" [17
+Non-PDF special ignored!
+Non-PDF special ignored!
+
+
+
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!]
+Chapter 3.
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+
+ []
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 12.
+File: usecase0.eps Graphic file (type eps)
+<usecase0.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 14--18
+
+ []
+
+File: usecase1.eps Graphic file (type eps)
+<usecase1.eps> [18
+Non-PDF special ignored!
+Non-PDF special ignored!
+
+
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!] [19
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!]
+Underfull \hbox (badness 10000) in paragraph at lines 30--31
+
+ []
+
+File: act.eps Graphic file (type eps)
+<act.eps>
+Overfull \hbox (14.38725pt too wide) in paragraph at lines 33--35
+[][]
+ []
+
+) [20
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!]
+("C:\Users\Shree\Desktop\BE prj\final latex report\chapter4.tex" [21
+Non-PDF special ignored!
+Non-PDF special ignored!
+
+
+
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!]
+Chapter 4.
+File: DFD.eps Graphic file (type eps)
+<DFD.eps>
+Overfull \hbox (14.39868pt too wide) in paragraph at lines 14--16
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--16
+
+ []
+
+[22
+Non-PDF special ignored!
+Non-PDF special ignored!
+
+
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!]
+File: ER1.eps Graphic file (type eps)
+ <ER1.eps>
+Overfull \hbox (14.40533pt too wide) in paragraph at lines 23--25
+[][]
+ []
+
+[23
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!]
+File: Class.eps Graphic file (type eps)
+ <Class.eps>
+Overfull \hbox (42.85425pt too wide) in paragraph at lines 36--38
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--38
+
+ []
+
+[24
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!]
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+File: seq.eps Graphic file (type eps)
+ <seq.eps>
+Overfull \hbox (42.85205pt too wide) in paragraph at lines 46--48
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--48
+
+ []
+
+[25
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!]
+File: coll.eps Graphic file (type eps)
+ <coll.eps> [26
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!]
+File: state.eps Graphic file (type eps)
+ <state.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 62--67
+
+ []
+
+[27
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!]
+File: dep.eps Graphic file (type eps)
+ <dep.eps>
+Overfull \hbox (42.8491pt too wide) in paragraph at lines 74--76
+[][]
+ []
+
+) [28
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!]
+("C:\Users\Shree\Desktop\BE prj\final latex report\chapter5.tex" [29
+Non-PDF special ignored!
+Non-PDF special ignored!
+
+
+
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!]
+Chapter 5.
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--17
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--24
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--32
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--40
+
+ []
+
+[30
+Non-PDF special ignored!
+Non-PDF special ignored!
+
+
+Non-PDF special ignored!
+Non-PDF special ignored!]
+Underfull \hbox (badness 10000) in paragraph at lines 42--46
+
+ []
+
+File: login.eps Graphic file (type eps)
+<login.eps>
+Overfull \hbox (14.41081pt too wide) in paragraph at lines 51--53
+[][]
+ []
+
+[31
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!]
+File: newuser.eps Graphic file (type eps)
+ <newuser.eps>
+Overfull \hbox (14.41081pt too wide) in paragraph at lines 56--58
+[][]
+ []
+
+[32
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!]
+File: admin.eps Graphic file (type eps)
+ <admin.eps>
+Overfull \hbox (14.41081pt too wide) in paragraph at lines 61--63
+[][]
+ []
+
+[33
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!]
+File: encode.eps Graphic file (type eps)
+ <encode.eps>
+Overfull \hbox (14.41081pt too wide) in paragraph at lines 66--68
+[][]
+ []
+
+[34
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!]
+File: update.eps Graphic file (type eps)
+ <update.eps>
+Overfull \hbox (14.41081pt too wide) in paragraph at lines 71--73
+[][]
+ []
+
+[35
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!]
+File: map.eps Graphic file (type eps)
+ <map.eps>
+Overfull \hbox (14.41081pt too wide) in paragraph at lines 76--78
+[][]
+ []
+
+[36
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!]
+File: mop.eps Graphic file (type eps)
+ <mop.eps>
+Overfull \hbox (14.40533pt too wide) in paragraph at lines 81--83
+[][]
+ []
+
+[37
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!]
+Overfull \vbox (397.66435pt too high) has occurred while \output is active []
+
+
+[38
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!]
+Overfull \hbox (54.87094pt too wide) in paragraph at lines 762--762
+[]\OT1/pcr/m/n/12 Connection con = DriverManager.getConnection("jdbc:odbc:HEPV"
+,"system","system");[] 
+ []
+
+
+Overfull \hbox (48.75096pt too wide) in paragraph at lines 762--762
+[]\OT1/pcr/m/n/12 rs = st.executeQuery("select count(src) from source"); // src
+ is primary key ...[] 
+ []
+
+[39
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!] [40
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!] [41
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!] [42
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!]
+Overfull \hbox (18.15106pt too wide) in paragraph at lines 762--762
+[]\OT1/pcr/m/n/12 if(fragids == fragidd && fragids != 0) // src and dest are in
+ same fragment[] 
+ []
+
+[43
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!] [44
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!] [45
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!] [46
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!] [47
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!]
+Overfull \hbox (5.9111pt too wide) in paragraph at lines 762--762
+[]\OT1/pcr/m/n/12 else // Case 3: Both the src and dest nodes are local nodes (
+in fragment)[] 
+ []
+
+[48
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!] [49
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!] [50
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!] [51
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!]
+Overfull \hbox (79.35086pt too wide) in paragraph at lines 762--762
+[]\OT1/pcr/m/n/12 System.out.println("Source and Destination are same. Thus, sh
+ortest distance = 0.0");[] 
+ []
+
+[52
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!] [53
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!] [54
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!] [55
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!]) [56
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!]
+("C:\Users\Shree\Desktop\BE prj\final latex report\chapter6.tex" [57
+Non-PDF special ignored!
+Non-PDF special ignored!
+
+
+
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!]
+Chapter 6.
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--13
+\OT1/ptm/b/n/12 De-scrip-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--13
+[]\OT1/ptm/b/n/12 Expected
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--13
+[]\OT1/ptm/b/n/12 Actual
+ []
+
+
+Underfull \hbox (badness 1742) in paragraph at lines 13--13
+[]\OT1/ptm/b/n/12 Test Sta-
+ []
+
+
+Underfull \hbox (badness 2608) in paragraph at lines 13--13
+[]\OT1/ptm/b/n/12 Test Pri-
+ []
+
+
+Underfull \hbox (badness 2653) in paragraph at lines 14--14
+[]\OT1/ptm/m/n/12 To ver-ify
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--14
+\OT1/ptm/m/n/12 user-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--14
+[]\OT1/ptm/m/n/12 Enter
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--14
+\OT1/ptm/m/n/12 in-valid
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--14
+\OT1/ptm/m/n/12 user-name
+ []
+
+
+Underfull \hbox (badness 2401) in paragraph at lines 14--14
+\OT1/ptm/m/n/12 and valid
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--14
+[]\OT1/ptm/m/n/12 An er-ror
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--14
+\OT1/ptm/m/n/12 mes-sage
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--14
+\OT1/ptm/m/n/12 "En-ter
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--14
+\OT1/ptm/m/n/12 valid
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--14
+[]\OT1/ptm/m/n/12 An er-ror
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--14
+\OT1/ptm/m/n/12 mas-sage
+ []
+
+
+Underfull \hbox (badness 2653) in paragraph at lines 15--15
+[]\OT1/ptm/m/n/12 To ver-ify
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
+\OT1/ptm/m/n/12 user-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
+[]\OT1/ptm/m/n/12 Enter
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
+\OT1/ptm/m/n/12 valid
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
+\OT1/ptm/m/n/12 user-name
+ []
+
+
+Underfull \hbox (badness 2401) in paragraph at lines 15--15
+\OT1/ptm/m/n/12 and valid
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
+[]\OT1/ptm/m/n/12 Next
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
+\OT1/ptm/m/n/12 Form
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
+\OT1/ptm/m/n/12 shoule
+ []
+
+
+Underfull \hbox (badness 3460) in paragraph at lines 16--16
+[]\OT1/ptm/m/n/12 To check
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--16
+\OT1/ptm/m/n/12 whether
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--16
+\OT1/ptm/m/n/12 frag-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--16
+\OT1/ptm/m/n/12 ment is
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--16
+[]\OT1/ptm/m/n/12 Click on
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--16
+\OT1/ptm/m/n/12 En-code
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--16
+[]\OT1/ptm/m/n/12 A mes-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--16
+\OT1/ptm/m/n/12 sage
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--16
+\OT1/ptm/m/n/12 "suc-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--16
+\OT1/ptm/m/n/12 cess-fully
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--16
+\OT1/ptm/m/n/12 En-coded"
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--16
+\OT1/ptm/m/n/12 dis-play
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--16
+\OT1/ptm/m/n/12 Frag-
+ []
+
+
+Overfull \hbox (11.43602pt too wide) in paragraph at lines 16--16
+[]\OT1/ptm/m/n/12 Successfully
+ []
+
+
+Overfull \hbox (48.93773pt too wide) in paragraph at lines 11--16
+[] 
+ []
+
+[58
+Non-PDF special ignored!
+Non-PDF special ignored!
+
+
+Non-PDF special ignored!
+Non-PDF special ignored!]
+Underfull \hbox (badness 3460) in paragraph at lines 17--17
+[]\OT1/ptm/m/n/12 To check
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+\OT1/ptm/m/n/12 whether
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+\OT1/ptm/m/n/12 su-per-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+\OT1/ptm/m/n/12 graph is
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+[]\OT1/ptm/m/n/12 Click on
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+\OT1/ptm/m/n/12 En-code
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+[]\OT1/ptm/m/n/12 A mes-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+\OT1/ptm/m/n/12 sage
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+\OT1/ptm/m/n/12 "suc-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+\OT1/ptm/m/n/12 cess-fully
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+\OT1/ptm/m/n/12 En-coded"
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+\OT1/ptm/m/n/12 dis-play.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+\OT1/ptm/m/n/12 su-per-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+\OT1/ptm/m/n/12 graph is
+ []
+
+
+Overfull \hbox (11.43602pt too wide) in paragraph at lines 17--17
+[]\OT1/ptm/m/n/12 Successfully
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+\OT1/ptm/m/n/12 En-coded.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+\OT1/ptm/m/n/12 Su-per-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+\OT1/ptm/m/n/12 graph
+ []
+
+
+Underfull \hbox (badness 3460) in paragraph at lines 18--18
+[]\OT1/ptm/m/n/12 To check
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--18
+\OT1/ptm/m/n/12 whether
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--18
+\OT1/ptm/m/n/12 database
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--18
+[]\OT1/ptm/m/n/12 click on
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--18
+\OT1/ptm/m/n/12 up-date
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--18
+[]\OT1/ptm/m/n/12 A mes-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--18
+\OT1/ptm/m/n/12 sage
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--18
+\OT1/ptm/m/n/12 "Suc-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--18
+\OT1/ptm/m/n/12 cess-fully
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--18
+\OT1/ptm/m/n/12 Up-dated"
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--18
+\OT1/ptm/m/n/12 should
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--18
+\OT1/ptm/m/n/12 dis-play.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--18
+\OT1/ptm/m/n/12 Database
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--18
+[]\OT1/ptm/m/n/12 A mes-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--18
+\OT1/ptm/m/n/12 sage not
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--18
+\OT1/ptm/m/n/12 dis-played.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--18
+\OT1/ptm/m/n/12 Database
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--18
+\OT1/ptm/m/n/12 not up-
+ []
+
+
+Overfull \hbox (21.2642pt too wide) in paragraph at lines 20--20
+[]\OT1/ptm/m/n/12 PathDisplay01| 
+ []
+
+
+Overfull \hbox (9.2642pt too wide) in paragraph at lines 20--20
+[]\OT1/ptm/m/n/12 PathDisplay| 
+ []
+
+
+Underfull \hbox (badness 2653) in paragraph at lines 20--20
+[]\OT1/ptm/m/n/12 To ver-ify
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--20
+\OT1/ptm/m/n/12 proper
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--20
+\OT1/ptm/m/n/12 path
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--20
+[]\OT1/ptm/m/n/12 Select
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--20
+\OT1/ptm/m/n/12 source
+ []
+
+
+Underfull \hbox (badness 5622) in paragraph at lines 20--20
+[]\OT1/ptm/m/n/12 The path
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--20
+\OT1/ptm/m/n/12 be-tween
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--20
+\OT1/ptm/m/n/12 source
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--20
+\OT1/ptm/m/n/12 and des-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--20
+\OT1/ptm/m/n/12 ti-na-tion
+ []
+
+
+Underfull \hbox (badness 4132) in paragraph at lines 20--20
+\OT1/ptm/m/n/12 get hidg-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--20
+[]\OT1/ptm/m/n/12 Path is
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--20
+\OT1/ptm/m/n/12 high-
+ []
+
+
+Overfull \hbox (4.76422pt too wide) in paragraph at lines 21--21
+[]\OT1/ptm/m/n/12 Distance01| 
+ []
+
+
+Underfull \hbox (badness 2653) in paragraph at lines 21--21
+[]\OT1/ptm/m/n/12 To ver-ify
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--21
+\OT1/ptm/m/n/12 short-est
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--21
+\OT1/ptm/m/n/12 dis-tance
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--21
+[]\OT1/ptm/m/n/12 select
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--21
+\OT1/ptm/m/n/12 source
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--21
+[]\OT1/ptm/m/n/12 The
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--21
+\OT1/ptm/m/n/12 short-est
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--21
+\OT1/ptm/m/n/12 dis-tance
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--21
+[]\OT1/ptm/m/n/12 The
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--21
+\OT1/ptm/m/n/12 short-est
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--21
+\OT1/ptm/m/n/12 dis-tance
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--21
+\OT1/ptm/m/n/12 not dis-
+ []
+
+
+Overfull \hbox (48.93773pt too wide) in paragraph at lines 16--24
+[] 
+ []
+
+) [59
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!]
+("C:\Users\Shree\Desktop\BE prj\final latex report\chapter7.tex"
+Chapter 7.
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--11
+
+ []
+
+) [60
+Non-PDF special ignored!
+Non-PDF special ignored!
+
+
+
+
+Non-PDF special ignored!
+Non-PDF special ignored!]
+("C:\Users\Shree\Desktop\BE prj\final latex report\chapter8.tex"
+Chapter 8.
+Missing character: There is no ì in font ptmr7t!
+Missing character: There is no î in font ptmr7t!
+Missing character: There is no ñ in font ptmr7t!
+Missing character: There is no ì in font ptmr7t!
+Missing character: There is no î in font ptmr7t!
+Missing character: There is no ñ in font ptmr7t!
+Missing character: There is no ì in font ptmr7t!
+Missing character: There is no î in font ptmr7t!
+Missing character: There is no ì in font ptmr7t!
+Missing character: There is no î in font ptmr7t!
+Missing character: There is no ñ in font ptmr7t!
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--30
+
+ []
+
+) [61
+Non-PDF special ignored!
+Non-PDF special ignored!
+
+
+
+
+Non-PDF special ignored!
+Non-PDF special ignored!]
+("C:\Users\Shree\Desktop\BE prj\final latex report\Project Main file.aux"
+("C:\Users\Shree\Desktop\BE prj\final latex report\chapter1.aux")
+("C:\Users\Shree\Desktop\BE prj\final latex report\chapter2.aux")
+("C:\Users\Shree\Desktop\BE prj\final latex report\chapter3.aux")
+("C:\Users\Shree\Desktop\BE prj\final latex report\chapter4.aux")
+("C:\Users\Shree\Desktop\BE prj\final latex report\chapter5.aux")
+("C:\Users\Shree\Desktop\BE prj\final latex report\chapter6.aux")
+("C:\Users\Shree\Desktop\BE prj\final latex report\chapter7.aux")
+("C:\Users\Shree\Desktop\BE prj\final latex report\chapter8.aux")) ) 
+Here is how much of TeX's memory you used:
+ 5027 strings out of 494045
+ 72099 string characters out of 3148388
+ 249403 words of memory out of 3000000
+ 8072 multiletter control sequences out of 15000+200000
+ 34384 words of font info for 70 fonts, out of 3000000 for 9000
+ 725 hyphenation exceptions out of 8191
+ 27i,12n,43p,9034b,436s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program
+ Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/
+courier/ucrr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pf
+b><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Fil
+es/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on "Project Main file.pdf" (68 pages, 145668 bytes).
+PDF statistics:
+ 246 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

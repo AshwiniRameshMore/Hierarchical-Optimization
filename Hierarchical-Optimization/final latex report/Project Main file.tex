@@ -1,0 +1,108 @@
+
+\documentclass[dvips,12pt,openright,a4paper,final]{report}
+
+%\documentclass[leftflush,openright,a4paper,12pt,fleqn]{report}
+\usepackage{supertabular}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{subfigure}
+\usepackage[dvips]{graphicx,color}
+\usepackage{makeidx}
+\usepackage{nomencl}
+\usepackage{cite}
+\usepackage{graphicx}
+\usepackage{amsmath,amsfonts}
+\usepackage{longtable}
+\usepackage{afterpage}
+\usepackage{graphicx}
+\usepackage{datetime}
+\usepackage{lipsum}
+\usepackage{enumitem}
+\usepackage[left=2cm,right=2cm,top=2cm,bottom=2cm]{geometry}
+\usepackage{ragged2e}
+\usepackage{amsmath}
+\usepackage{float}
+\restylefloat{table}
+%\floatstyle{boxed} 
+\restylefloat{figure}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\thispagestyle{empty}
+\input intmacros.sty
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\renewcommand{\baselinestretch}{1.2}
+\setlength{\textheight}{9.2in}
+\setlength{\textwidth}{6.1in}
+\addtolength{\leftmargin}{-.3in}
+\topmargin -.2in
+\pagenumbering{}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{pslatex}
+\begin{document}
+\pagestyle{empty}
+
+\input{title}   
+
+\newpage
+\pagestyle{plain}
+\pagenumbering{roman}
+
+\newpage
+\input{CERTIFICATE}
+
+
+\newpage
+\input{abstract}
+
+\newpage
+\input{acknowledgement}
+
+\listoffigures
+\tableofcontents
+
+
+%\listoftables
+%\listofabbreviations
+%%\newpage
+%%\input{symbols}
+%%\newpage
+%%\input{abbreviations}
+
+%%%%%%%%%%%%%%%
+%\pagestyle{plain}
+%\pagestyle{headings}
+%\pagenumbering{arabic}
+%
+\pagestyle{fancy}
+\pagenumbering{arabic}
+% it will occur at top i.e. header
+\lhead{} % this is for left header
+\chead{} % this is for center header
+\rhead{} % this is for right header
+%it will occur at bottom i.e. footer
+\lfoot{} % this is for left footer
+\cfoot{\tiny SCOE,Information Technology\\(2011-12).}% this is for center footer
+\rfoot{\thepage} % this is for right footer
+\renewcommand{\headrulewidth}{0.0pt} % draw & set line possition for header
+\renewcommand{\footrulewidth}{0.4pt} % draw & set line possition for footer
+\newpage % insert new page
+\newpage
+\pagestyle{fancy}
+\pagenumbering{arabic}
+
+\include{chapter1}
+\newpage
+\include{chapter2}
+\include{chapter3}
+\include{chapter4}
+\include{chapter5}
+\include{chapter6}
+\include{chapter7}
+\include{chapter8}
+\end{center}
+
+\end{document}
